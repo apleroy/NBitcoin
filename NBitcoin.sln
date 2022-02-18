@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29519.181
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NBitcoin", "NBitcoin\NBitcoin.csproj", "{7B692A4C-412A-41BA-A1F8-5DF8F7450ABC}"
 EndProject
@@ -13,6 +13,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NBitcoin.Bench", "NBitcoin.Bench\NBitcoin.Bench.csproj", "{153FEA8A-FA98-4ADD-8570-5FD88631C489}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NBitcoin.Secp256k1", "NBitcoin.Secp256k1\NBitcoin.Secp256k1.csproj", "{6E105AA4-767F-4045-B858-A7C400DCBC40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBitcoinDemoConsole", "NBitcoinDemoConsole\NBitcoinDemoConsole.csproj", "{F4F1AA92-4776-4896-9605-E530BAE6E298}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,6 +46,10 @@ Global
 		{6E105AA4-767F-4045-B858-A7C400DCBC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E105AA4-767F-4045-B858-A7C400DCBC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E105AA4-767F-4045-B858-A7C400DCBC40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F1AA92-4776-4896-9605-E530BAE6E298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F1AA92-4776-4896-9605-E530BAE6E298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F1AA92-4776-4896-9605-E530BAE6E298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F1AA92-4776-4896-9605-E530BAE6E298}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
