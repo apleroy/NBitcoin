@@ -25,7 +25,7 @@ Before starting with this tutorial, I would highly recommend heading over to the
 
 ## Article & Details
 
-The full article to build this Console program is here:
+The full article to build this Console program is here: [Exponential Layers](https://www.exponentiallayers.com/bitcoin-101-console-app-using-csharp-nbitcoin-regtest/)
 
 ## Configuration File
 
